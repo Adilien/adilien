@@ -6,6 +6,7 @@
 
 - 👨‍💻 I also have experience in Web Development using React, Redux, JavaScript, CSS and HTML in both front-end and back-end. 
 
+Feel free to take a look at some of my projects below 👇
 <!--
 **Adilien/adilien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
